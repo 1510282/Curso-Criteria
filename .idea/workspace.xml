@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dacca2d2-83a8-45bb-b053-1ab5bfc346a6" name="Changes" comment="curso 4">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ingeniero/criteriaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ingeniero/jpql/HibernateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ingeniero/criteria/HibernateUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ingeniero/jpql/model/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ingeniero/criteria/model/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ingeniero/jpql/model/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ingeniero/criteria/model/Author.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ingeniero/jpql/model/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ingeniero/criteria/model/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ingeniero/jpql/model/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ingeniero/criteria/model/Category.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/ingeniero/QueryTest.java" beforeDir="false" />
-    </list>
+    <list default="true" id="dacca2d2-83a8-45bb-b053-1ab5bfc346a6" name="Changes" comment="curso 4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +19,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "1510282"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="d3314ac4-e956-4623-b2d9-072a8eda7b40" />
+        <option name="url" value="https://github.com/1510282/Curso-JPQL.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -199,7 +202,7 @@
       <option name="presentableId" value="Default" />
       <updated>1705913626598</updated>
       <workItem from="1705913628555" duration="3586000" />
-      <workItem from="1706092899204" duration="3815000" />
+      <workItem from="1706092899204" duration="3970000" />
     </task>
     <task id="LOCAL-00001" summary="curso 4">
       <option name="closed" value="true" />
@@ -209,7 +212,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705916609176</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="curso 4">
+      <option name="closed" value="true" />
+      <created>1706096841535</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706096841535</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,7 +231,24 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
